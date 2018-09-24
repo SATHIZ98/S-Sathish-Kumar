@@ -9,7 +9,7 @@ class alphabet
    System.out.println();
    if((a>='a'&&a<='z')||(a>='A'&&a<='Z'))
     {
-  System.out.println("ALPHABET");
+  System.out.println("Alphabet");
     }
    else
      {
