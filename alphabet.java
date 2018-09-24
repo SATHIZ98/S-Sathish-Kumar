@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class ALPHABET
+class alphabet
 {
   public static void main(String[] args) 
  {
