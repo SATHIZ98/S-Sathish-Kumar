@@ -7,11 +7,11 @@
               a=s.nextInt();
              if(a%4==0)
               {
-               System.out.println("leap year");
+               System.out.println("yes");
               }
          else
       {
-      System.out.println("not");  
+      System.out.println("no");  
       }  
   }
 }
